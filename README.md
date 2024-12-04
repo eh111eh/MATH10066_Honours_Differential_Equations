@@ -6,3 +6,5 @@ Skills Lab Assignments; Connected to Gradescope for submission.
 - Skills Lab 3: Linearisation and phase portraits.
 - Skills Lab 4: Fourier series and PDEs
 - Skills Project
+    - Part 1: Wave equation with linear damping
+    - Part 2: Lorenz system
